@@ -1,0 +1,2 @@
+C:\Users\rca\Documents\GitHub\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe.config
+C:\Users\rca\Documents\GitHub\Kinect_Gestures\bin\x86\Debug\DiscreteGestureBasics-WPF.exe.config
